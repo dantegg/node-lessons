@@ -1,0 +1,22 @@
+{
+  "name": "lesson2",
+  "version": "0.0.1",
+  "description": "no description",
+  "main": "app.js",
+  "scripts": {
+    "test": "hahah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ggg"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "dantegg",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "utility": "^1.8.0"
+  }
+}
