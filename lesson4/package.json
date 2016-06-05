@@ -1,0 +1,23 @@
+{
+  "name": "lesson4",
+  "version": "0.0.1",
+  "description": "no description",
+  "main": "app.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "dantegg",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "eventproxy": "^0.3.4",
+    "superagent": "^2.0.0"
+  }
+}

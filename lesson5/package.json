@@ -1,0 +1,19 @@
+{
+  "name": "lesson5",
+  "version": "0.0.1",
+  "description": "no description",
+  "main": "app.js",
+  "scripts": {
+    "test": "no test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "dantegg",
+  "license": "MIT"
+}

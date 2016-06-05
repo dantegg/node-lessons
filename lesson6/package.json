@@ -1,0 +1,23 @@
+{
+  "name": "lesson6",
+  "version": "0.0.1",
+  "description": "learn nodejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "learn node js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantegg/node-lessons.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "dantegg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dantegg/node-lessons/issues"
+  },
+  "homepage": "https://github.com/dantegg/node-lessons#readme"
+}
